@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-
+# -*- coding: utf-8 -*-
 
 """
 This is my first program on Pycharm!!
@@ -17,7 +17,7 @@ def print_noora():
     """
     Just print my name.
     """
-    print("Noora Vaattanen")
+    print("Noora Väättänen")
 
 
 if __name__ == '__main__':
