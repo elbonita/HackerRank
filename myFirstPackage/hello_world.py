@@ -14,8 +14,12 @@ def hello_world():
 
 
 def print_noora():
-    print("Noora Väättänen")
+    """
+    Just print my name.
+    """
+    print("Noora Vaattanen")
 
 
 if __name__ == '__main__':
     hello_world()
+    print_noora()
