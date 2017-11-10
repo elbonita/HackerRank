@@ -13,5 +13,9 @@ def hello_world():
     print("Hello World!")
 
 
+def print_noora():
+    print("Noora Väättänen")
+
+
 if __name__ == '__main__':
     hello_world()
